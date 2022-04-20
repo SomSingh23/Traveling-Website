@@ -1,4 +1,4 @@
-## A simple `Travling Website`
+## A simple `Travling Website` made with bootstrap and almost zero css !
 
 ---
 
